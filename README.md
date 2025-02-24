@@ -6,7 +6,7 @@
 - 👨‍💻 I'm addicted to improving, learning, growing, and questioning, and I'm never quite satisfied.
 - 🤝 Looking to connect with other developers, especially those on a similar journey as a career transitioner!
 - 📈 I also love data and statistics and looking to create data-related projects for 2025.
-- ⚡ Fun facts: other hobbies include philosophy, coffee, travel, reading, video games, and exercise (former powerlifter and cross-fit competitor!), among other things.
+- ⚡ Fun facts: other hobbies include philosophy, coffee, biology, psychology, travel, reading, video games, and exercise (former powerlifter and cross-fit competitor!), among other things.
 
 ## ⚙️ Technologies ⚙️
 - Java
